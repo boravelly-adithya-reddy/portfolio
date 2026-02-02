@@ -1,0 +1,16 @@
+{
+  "name": "Adithya Reddy - Portfolio",
+  "short_name": "Adithya Reddy",
+  "description": "Personal Portfolio of Adithya Reddy - Data Engineer & Data Scientist",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./photo/adi.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    }
+  ]
+}
